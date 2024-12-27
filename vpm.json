@@ -1,0 +1,32 @@
+{
+  "name": "qwert",
+  "id": "red.qwert.vpm",
+  "author": "Qwert",
+  "url": "https://izayoi256.github.io/vpm-repos/vpm.json",
+  "packages": {
+    "red.qwert.staticobjectsync": {
+      "versions": {
+        "0.0.1": {
+          "name": "red.qwert.staticobjectsync",
+          "displayName": "StaticObjectSync",
+          "version": "0.0.1",
+          "description": "A tool for synchronizing static objects with less continuous syncing",
+          "url": "https://github.com/izayoi256/StaticObjectSync/releases/download/0.0.1/red.qwert.staticobjectsync-0.0.1.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.7.4"
+          },
+          "unity": "2022.3",
+          "author": {
+            "name": "Qwert",
+            "email": "qwert.izayoi@gmail.com",
+            "url": "https://github.com/izayoi256/"
+          },
+          "legacyFolders": {
+            "Assets\\Qwert\\StaticObjectSync": ""
+          },
+          "legacyFiles": {}
+        }
+      }
+    }
+  }
+}
